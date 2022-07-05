@@ -1,6 +1,6 @@
 # README.md
 
-### 🔦 깃허브 push 방법 👐
+### 🔦 깃허브 push 👐
 
 ```python
 git add .
@@ -11,7 +11,7 @@ git commit -m " "
 ```
 
 ```python
-git remote origin add [https://github.com/jkim0313/ml.git](https://github.com/jkim0313/Ubion.git)
+git remote origin add [https://github.com/jkim0313/ml.git]
 ```
 
 ```python
