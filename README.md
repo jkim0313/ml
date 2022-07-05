@@ -22,4 +22,6 @@ git branch -M main
 git push -u origin main
 ```
 
+사진 
+
 ![groot](https://user-images.githubusercontent.com/76515487/177273074-99575735-f61c-41bb-b6a9-f0ca135cb40b.png)
